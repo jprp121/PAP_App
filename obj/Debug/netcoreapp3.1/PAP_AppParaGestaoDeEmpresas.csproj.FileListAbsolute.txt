@@ -1,0 +1,14 @@
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.csprojAssemblyReference.cache
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.FormInicial.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.AcercaDe.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.FormArtigoDetalhes.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.FormMoradaDetalhes.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.FormOrdemTrabalho.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.FormTeamDetalhes.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.FuncionariosDetalhes.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Forms.Login.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.Properties.Resources.resources
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.csproj.GenerateResource.cache
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.AssemblyInfoInputs.cache
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.AssemblyInfo.cs
+C:\Users\jprpj\Downloads\pap_-gemi-master\pap_-gemi-master\PAP_AppParaGestaoDeEmpresas\obj\Debug\netcoreapp3.1\PAP_AppParaGestaoDeEmpresas.csproj.CoreCompileInputs.cache
